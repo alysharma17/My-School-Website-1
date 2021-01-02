@@ -1,0 +1,23 @@
+#welcome {
+    background-color:aqua;
+}
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position:fixed;
+ margin-top:0px; 
+    z-index:10;
+    cursor: pointer;
+    background:white
+}
+.links {
+    padding-left:33px;
+    padding-right:25px;
+    color: #fff; 
+    font-family:fantasy;
+    font-size: 20px;
+    display:inline;
+} 
+.links:hover {
+    background-color:aqua;
+}
